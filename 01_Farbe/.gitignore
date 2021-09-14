@@ -20,5 +20,6 @@
 
 # Extra
 color
-*.cpp
+Farbe.cpp
 *.h
+Makefile

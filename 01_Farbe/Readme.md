@@ -54,5 +54,7 @@ Erweitern Sie Ihren Entwurf zur Klasse Farbe um folgende Bestandteile:
 
 **Fragen:**
 Warum wird dieser Typumwandlungskonstruktor nicht aktiv, wenn man einen int-Wert mit cout ausgibt?
+
 Wie kann man erzwingen, dass der int-Wert doch als Farbobjekt von cout ausgegeben wird?
+
 Kann man in einer Funktion, die ein Farbobjekt als Funktionsergebnis zurückgeben soll (laut Funktionskopf) im if-Teil ein Farbobjekt mit return zurückgeben und im else-Teil einen int-Wert?

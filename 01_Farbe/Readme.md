@@ -15,7 +15,7 @@ blau        0   0 255
 gelb      255 255   0
 ```
 
-1. Entwerfen Sue geeignete Datenelemente! Achten Sie auf Speichereffizienz für die Datenelemente!
+1. Entwerfen Sie geeignete Datenelemente! Achten Sie auf Speichereffizienz für die Datenelemente!
 2. Entwerfen Sie geeignete Konstruktoren und ggf. get- und set-Methoden.
 3. An allen Stellen, an denen im Sourcecode die Datenelemente für die Farbanteile und die Transparenz gesetzt werden, soll verhindert werden, dass Werte kleiner als 0 oder größer als 255 eingetragen werden können.
 4. Sehen Sie eine Methode vor, die ausgehend von den RGB- und dem Alpha-Wert der Farbe eine ganze Zahl rgba mit 4 Bytes berechnet gemäß der Formel

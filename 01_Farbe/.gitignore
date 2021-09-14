@@ -2,5 +2,8 @@ Farbe
 color
 main.d
 Make
-obj/
-.vscode/
+obj/*
+.vscode/*
+.gitignore
+*.vscode
+*obj/

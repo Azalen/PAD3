@@ -53,6 +53,7 @@ Erweitern Sie Ihren Entwurf zur Klasse Farbe um folgende Bestandteile:
 7.	Demonstrieren Sie die implizite und explizite Datentypumwandlung in ein Farbobjekt
 
 **Fragen:**
+
 Warum wird dieser Typumwandlungskonstruktor nicht aktiv, wenn man einen int-Wert mit cout ausgibt?
 
 Wie kann man erzwingen, dass der int-Wert doch als Farbobjekt von cout ausgegeben wird?

@@ -22,3 +22,4 @@
 color
 Makefile
 *.user
+*.DS_Store

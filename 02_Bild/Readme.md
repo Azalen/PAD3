@@ -24,7 +24,7 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 ## Übungsblatt 02, Aufgabe 02 (30 Punkte)
 (diese Aufgabe wird fortgesetzt)
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+![\Large x=\frac{-a\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 Führen Sie die Fixpunktiteration zur Berechnung der Mandelbrot-Menge $\mathbb{M}$ aus. 
 **Berechnung der Mandelbrotmenge:**

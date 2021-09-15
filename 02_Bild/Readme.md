@@ -40,7 +40,7 @@ Farbig codiert wird dann die Anzahl der nötigen Iterationen $k$, welche nötig 
 
 **Anleitung:**
 
-1. Wählen Sie Intervalle $[p_{min},p_{max}]$ und $[q_{min},q_{max}]$ für die Real- und Imaginärteile des Funktionswerts $c$ in der Fixpunktiteration, d.h. Grenzen für Abzissen- und Ordinatenachse des zu zeichnenden Mandelbrot-Bildes.
+1. Wählen Sie Intervalle <img src="https://latex.codecogs.com/svg.image?[p_{min},p_{max}]" title="[p_{min},p_{max}]" /> $[p_{min},p_{max}]$ und $[q_{min},q_{max}]$ für die Real- und Imaginärteile des Funktionswerts $c$ in der Fixpunktiteration, d.h. Grenzen für Abzissen- und Ordinatenachse des zu zeichnenden Mandelbrot-Bildes.
 
 2. Wählen Sie die Bild-Auflösung zur Berechnung, d.h. $r_x$ und $r_y$, um das Ergebnis in einer Matrix der Dimension $r_x$ x $r_y$ zu erstellen. Als Ergebnis der Iteration ergibt sich eine Zahl (eine fiktive Farbnummer). Es stehen 17 verschiedene Zahlen zur Verfügung, von 0 bis 16.
 

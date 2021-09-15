@@ -46,7 +46,7 @@ Farbig codiert wird dann die Anzahl der nötigen Iterationen $k$, welche nötig 
 
 2. Wählen Sie die Bild-Auflösung zur Berechnung, d.h. $r_x$ und $r_y$, um das Ergebnis in einer Matrix der Dimension $r_x$ x $r_y$ zu erstellen. Als Ergebnis der Iteration ergibt sich eine Zahl (eine fiktive Farbnummer). Es stehen 17 verschiedene Zahlen zur Verfügung, von 0 bis 16.
 
-<img align="center" src="https://render.githubusercontent.com/render/math?math=%5CHuge%20%5CDelta%20p%20%3A%3D%20(p_%7Bmax%7D-p_%7Bmin%7D)%20%2F%20(r_x-1)">
+<img align="right" src="https://render.githubusercontent.com/render/math?math=%5CHuge%20%5CDelta%20p%20%3A%3D%20(p_%7Bmax%7D-p_%7Bmin%7D)%20%2F%20(r_x-1)">
 
 3. Berechnen Sie die Schrittweiten $$Δ p := (p_{max}-p_{min}) / (r_x-1)$$     $$Δ q := (q_{max}-q_{min}) / (r_y-1)$$ und wählen Sie eine maximale Iterationszahl $K ∈ \mathbb{N}$ sowie eine Abbruchschranke $M>0$ für das maximale Betragsquadrat einer Iterierten.
 4. Für alle $n_p=0,...,r_{x-1}$ und $n_q=0,...,r_{y-1}$ führe man die Schritte (iv)-(vi) durch.

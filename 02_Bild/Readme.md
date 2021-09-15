@@ -24,9 +24,7 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 ## Übungsblatt 02, Aufgabe 02 (30 Punkte)
 (diese Aufgabe wird fortgesetzt)
 
-<img src="https://i.imgur.com/lGYV5Pp.png">
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](https://youtu.be/ovJcsL7vyrk?t=410)
+[<img src="https://i.imgur.com/lGYV5Pp.png">](https://youtu.be/ovJcsL7vyrk?t=410)
 
 **Anleitung:**
 

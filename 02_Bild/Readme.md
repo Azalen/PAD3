@@ -24,40 +24,8 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 ## Übungsblatt 02, Aufgabe 02 (30 Punkte)
 (diese Aufgabe wird fortgesetzt)
 
-![\Large x=\frac{-a\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
-
-Führen Sie die Fixpunktiteration zur Berechnung der Mandelbrot-Menge $\mathbb{M}$ aus. 
-**Berechnung der Mandelbrotmenge:**
-Dazu betrachten wir die *komplexe* Fixpunktiteration:
-
-$z_{k+1} = z_k^2+ c$ $\quad \quad$  $c ∈ \mathbb{C}$ , $k ∈ \mathbb{N}$ mit Startwert $z_0 = 0$
-
-Ein $c ∈ \mathbb{C}$ ist Teil der Mandelbrot-Menge $\mathbb{M}$, wenn die Beträge der $z_k$ beschränkt sind, d.h. nicht über jede beliebige Grenze wachsen. Siehe dazu ein [kurzes Video](https://youtu.be/ovJcsL7vyrk?t=410).
-
-Läuft die Iteration also gegen Unendlich, so ist $c$ nicht Teil der Mandelbrot-Menge $\mathbb{M}$ und wird farbig eingezeichnet. Bleibt die Iteration endlich, nach beliebig vielen Iterationen so ist $c ∈ \mathbb{M}$.
-Dabei kann die Iteration entweder **gegen einen Fixpunkt konvergieren** *(Fall 1)*, **periodisches Verhalten** zeigen *(Fall 2)* oder **chaotisch** verlaufen - **aber endlich** bleiben *(Fall 3)*. In jedem der drei Fälle wird der Punkt auf im Koordinatensystem schwarz markiert.
-
-Farbig codiert wird dann die Anzahl der nötigen Iterationen $k$, welche nötig sind, damit $z_k$ größer als ein selbst festgelegter Schwellenwert $M$. Zum Beispiel die Anzahl Iterationen die nötig sind, sodass $z_k > 1000$. Die $1000$ repräsentiert dann "Unendlich".
-
+<img src="https://i.imgur.com/lGYV5Pp.png">
 
 **Anleitung:**
 
-1. Wählen Sie Intervalle <img src="https://latex.codecogs.com/svg.image?[p_{min},p_{max}]" title="[p_{min},p_{max}]" /> und <img src="https://latex.codecogs.com/svg.image?$[q_{min},q_{max}]$" title="$[q_{min},q_{max}]$" /> für  die Real- und Imaginärteile des Funktionswerts $c$ in der Fixpunktiteration, d.h. Grenzen für Abzissen- und Ordinatenachse des zu zeichnenden Mandelbrot-Bildes.
-
-2. Wählen Sie die Bild-Auflösung zur Berechnung, d.h. $r_x$ und $r_y$, um das Ergebnis in einer Matrix der Dimension $r_x$ x $r_y$ zu erstellen. Als Ergebnis der Iteration ergibt sich eine Zahl (eine fiktive Farbnummer). Es stehen 17 verschiedene Zahlen zur Verfügung, von 0 bis 16.
-
-
-<img align="center" src="https://render.githubusercontent.com/render/math?math=%5CHuge%20%5CDelta%20p%20%3A%3D%20(p_%7Bmax%7D-p_%7Bmin%7D)%20%2F%20(r_x-1)">
-
-
-3. Berechnen Sie die Schrittweiten $$Δ p := (p_{max}-p_{min}) / (r_x-1)$$     $$Δ q := (q_{max}-q_{min}) / (r_y-1)$$ und wählen Sie eine maximale Iterationszahl $K ∈ \mathbb{N}$ sowie eine Abbruchschranke $M>0$ für das maximale Betragsquadrat einer Iterierten.
-4. Für alle $n_p=0,...,r_{x-1}$ und $n_q=0,...,r_{y-1}$ führe man die Schritte (iv)-(vi) durch.
-5.	Setzen Sie den Iterationszähler $k=0$, setzen Sie $$p:=p_{min}+n_p * Δ p$$ $$q:=q_{min}+n_q * Δ q$$ und 			wählen Sie den Parameter $c=p+iq$ sowie den Startwert $z_0=0$. 
-6. Berechnen Sie die nächste Iterierte $z_k+1$ gemäß Iterationsgleichung und inkrementieren Sie $k$.
-7. Hat $k$ die maximale Iterationszahl $K$ erreicht, so wähle man das Ergebnis $0$ und gehe zu (vii).
-Ansonsten berechne man den Betrag von $z_k$.
-Ist $|z_k| \leq M$ und $k < K$, so gehe man zu (v).
-Ist $|z_k| > M$, so wähle man das Ergebnis $(k$ mod $16) + 1$ und gehe zu (vii).
-
-8. Das Ergebnis für jeden *Pixel* $(n_p, n_q)$ soll in einer Matrix abgespeichert werden. 
-
+<img src="https://i.imgur.com/eD87OKE.png">

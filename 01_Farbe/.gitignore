@@ -18,8 +18,4 @@
 *.out
 *.app
 
-# Extra
-color
-Farbe.cpp
-*.h
-Makefile
+*.user

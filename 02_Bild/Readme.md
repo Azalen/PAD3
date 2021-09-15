@@ -25,7 +25,7 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 (diese Aufgabe wird fortgesetzt)
 
 Führen Sie die Fixpunktiteration zur Berechnung der Mandelbrot-Menge $\mathbb{M}$ aus. 
-
+<img src="https://render.githubusercontent.com/render/math?math=%24%24%CE%94%20p%20%3A%3D%20(p_%7Bmax%7D-p_%7Bmin%7D)%20%2F%20(r_x-1)%24%24">
 **Berechnung der Mandelbrotmenge:**
 Dazu betrachten wir die *komplexe* Fixpunktiteration:
 

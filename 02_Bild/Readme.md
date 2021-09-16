@@ -34,4 +34,5 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 
 <img src="https://i.imgur.com/HFIw5MB.png"><img src="https://i.imgur.com/LJ2KHIC.png">
 
-*Hinweis*: Die STL stellt eine Template für [komplexe Zahlen](https://en.cppreference.com/w/cpp/numeric/complex) bereit mit entsprechenden Operatorüberladungen.
+***Hinweis***: Die STL stellt eine Template für [komplexe Zahlen](https://en.cppreference.com/w/cpp/numeric/complex) bereit mit entsprechenden Operatorüberladungen.
+***Hinweis***: Gute inititale Test-Werte für die benötigten Parameter sind in main.cpp hinterlegt.

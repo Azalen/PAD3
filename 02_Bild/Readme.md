@@ -24,7 +24,7 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 
 ### Arbeitsanweisung
 
-<img src="https://i.imgur.com/mvfIzEt.png">
+[<img src="https://i.imgur.com/mvfIzEt.png">](https://de.wikipedia.org/wiki/Portable_Anymap)
 
 ### Mathematische Erklärung
 

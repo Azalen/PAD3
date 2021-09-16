@@ -33,3 +33,5 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 ### Algorithmus
 
 <img src="https://i.imgur.com/HFIw5MB.png"><img src="https://i.imgur.com/LJ2KHIC.png">
+
+*Hinweis*: Die STL stellt eine Template für [komplexe Zahlen](https://en.cppreference.com/w/cpp/numeric/complex) bereit mit entsprechenden Operatorüberladungen.

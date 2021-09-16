@@ -57,5 +57,5 @@ Matlab-Colormap "hsv" (16 RGB-Farben in float-Format mit schwarz)
 { 1.00000, 0.00000, 0.75000 },
 { 1.00000, 0.00000, 0.37500 }
 
-Zur Umrechnung dieser RGB-Fließkommawerte (Zahlen zwischen 0.0 und 1.0) schreiben Sie eine globale Funktion, die das Farbobjekt zurückgibt, 
+Zur Umrechnung dieser RGB-Fließkommawerte (Zahlen zwischen 0.0 und 1.0) schreiben Sie eine globale Funktion/Methode, die das Farbobjekt zurückgibt, 
 dass sich ergibt, wenn man die drei Zahlenwerte als RGB-Werte ansieht, indem man sie mit 255 multipliziert und jeweils auf eine ganze Zahl rundet.

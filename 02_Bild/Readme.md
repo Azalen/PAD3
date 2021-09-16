@@ -20,13 +20,12 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 ***Lektüre:*** http://www.wilkening-online.de/programmieren/c++-operator-ueberladung.html#Kapitel_2_3
 
 
-## Noch nicht final
-## Übungsblatt 02, Aufgabe 02 (30 Punkte)
-(diese Aufgabe wird fortgesetzt)
+## Übungsblatt 02, Aufgabe 02 (50 Punkte)
 
+<img src="https://i.imgur.com/mvfIzEt.png">
 
-[<img src="https://i.imgur.com/mvfIzEt.png">](https://youtu.be/ovJcsL7vyrk?t=410)
+[<img src="https://i.imgur.com/zZ465eE.png">](https://youtu.be/ovJcsL7vyrk?t=410)
 
-**Anleitung:**
+<img src="https://i.imgur.com/HFIw5MB.png">
 
-<img src="https://i.imgur.com/zZ465eE.png">
+<img src="https://i.imgur.com/LJ2KHIC.png">

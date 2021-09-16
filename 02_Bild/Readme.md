@@ -32,6 +32,4 @@ Erläutern Sie Vor- und Nachteile von objektabhängiger und objektunabhängiger 
 
 ### Algorithmus
 
-<img src="https://i.imgur.com/HFIw5MB.png">
-
-<img src="https://i.imgur.com/LJ2KHIC.png">
+<img src="https://i.imgur.com/HFIw5MB.png"><img src="https://i.imgur.com/LJ2KHIC.png">

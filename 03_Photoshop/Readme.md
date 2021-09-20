@@ -13,7 +13,7 @@ Realisieren Sie folgende Funktionalität:
 
 Verfassen Sie außerdem ein Klassendiagramm nach UML2-Standard!
 
-## Übungsblatt 03, Aufgabe 02 (10 Punkte)
+## Übungsblatt 03, Aufgabe 02 (15 Punkte)
 
 Erweitern Sie **Photoshop** um die Funktion ein farbiges Bild in ein Schwarz-Weiß (Greyscale) Bild zu transformieren. Speichern Sie das neue Bild möglichst effizient ab.
 
@@ -23,12 +23,12 @@ Guter Ergebnisse sind bspw. mit der Formel `Y = 0.299 R + 0.587 G + 0.114 B` zu 
 
 Hinweis: http://davis.lbl.gov/Manuals/NETPBM/doc/pgm.html
 
-## Übungsblatt 03, Aufgabe 03 (20 Punkte)
+## Übungsblatt 03, Aufgabe 03 (15 Punkte)
 
 ***Super Simple Zoom***
 
 Erweitern Sie ihr Programm um eine 200% Zoomfunktion unter Verwendung der *zero order hold*-Methode:
 *   Iteriere über alle Reihen des Bildes
-*   -> Wähle reihenweise zwei aufeinanderfolgende Pixel und füge einen Pixel zwischen diesen ein nach der Formel `px1 + px2 / 2`
+    *   Wähle reihenweise zwei aufeinanderfolgende Pixel und füge einen Pixel zwischen diesen ein nach der Formel `px1 + px2 / 2`
 *   Iteriere nun über alle Spalten des Bilden
-*   -> Wähle spaltenweise zwei aufeinanderfolgende Pixel und füge einen Pixel zwischen diesen ein nach obiger Formel
+    *   Wähle spaltenweise zwei aufeinanderfolgende Pixel und füge einen Pixel zwischen diesen ein nach obiger Formel

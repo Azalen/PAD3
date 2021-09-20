@@ -6,4 +6,4 @@ Collection of different C++ exercises on PAD2+ level
 
 **02 - Klasse Bild, Colormap, Mandelbrot** (Assoziationen, fstreams, komplexe Zahlen, Fixpunktiteration)
 
-**03 - Klasse Photoshop** (Klassendiagramme, Weichzeichnen, Kontrast verändern)
+**03 - Klasse Photoshop** (Klassendiagramme, Helligkeit & Schwarz/Weiß, Zoom)

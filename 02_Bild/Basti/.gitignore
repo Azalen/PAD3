@@ -21,8 +21,8 @@
 # Extra
 color
 Makefile
+Farbe.cpp
+*.h
 *.user
 *.DS_Store
-*.vscode/
-*obj/
-*src/
+Mandelbrot

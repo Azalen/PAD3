@@ -22,3 +22,7 @@
 color
 Makefile
 *.user
+*.DS_Store
+*.vscode/
+*obj/
+*src/

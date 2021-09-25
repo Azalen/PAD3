@@ -5,7 +5,7 @@
 Schreiben Sie ein Klasse **Photoshop**, welche ein **Bild** im `.ppm`-Format einlesen kann oder alternativ eine neue leere Arbeitsfläche mit vom Nutzer eingegebenen Maßen realisiert. Eventuell müssen Sie dafür Ihren Klassenentwurf von **Bild** und **Farbe** leicht anpassen (Ein Umbennennen von **Farbe** in **Pixel** erleichtert eventuell das Codeverständnis).
 
 Realisieren Sie folgende Funktionalität:
-*   *Speichern unter* in den unkomprimierten Formaten `.ppm (P3)` und `.ppm (P6)` ([http://davis.lbl.gov/Manuals/NETPBM/doc/ppm.html#index]((Informationen zu den Formaten))
+*   *Speichern unter* in den unkomprimierten Formaten `.ppm (P3)` und `.ppm (P6)` ([Hinweise zu den Formaten](http://davis.lbl.gov/Manuals/NETPBM/doc/ppm.html))
 *   *Einfärben* des gesamten Bildes/Arbeitsfläche mit 10x10 Pixel-Quadraten zufälliger Farbe
 *   *Drehen* des Bildes um 90° im Uhrzeigersinn
 *   *Helligkeit verringern/erhöhen* um einen vom Nutzer abgefragten prozentualen Wert

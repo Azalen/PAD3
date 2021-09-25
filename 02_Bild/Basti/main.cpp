@@ -10,6 +10,7 @@ int main(){
     Mandelbrot m(WIDTH,HEIGHT);
     Bild b(WIDTH, HEIGHT);
     b.baueMandelbrot(m);
-    b.toPPM("mandel_hot");
+    b.toPPM("mandel_hot_P6");
+    b.toPPM_plain("mandel_hot_P3");
 
 }

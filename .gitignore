@@ -19,8 +19,10 @@
 *.app
 
 # Extra
+build*/
 color
 Makefile
+CMakeLists.txt
 *.user
 *.DS_Store
 *.vscode/

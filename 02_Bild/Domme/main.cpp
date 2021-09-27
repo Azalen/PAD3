@@ -1,32 +1,27 @@
 #include <iostream>
 #include <iomanip>
 #include "farbe.h"
+#include "bild.h"
 
-using namespace std;
 
 // X-Achse
-const float p_min = -2.25;
-const float p_max = 0.75;
+const double p_min = -2.25;
+const double p_max = 0.75;
 
 // Y-Achse
-const float q_min = -1.5;
-const float q_max = 1.5;
+const double q_min = -1.5;
+const double q_max = 1.5;
 
 // Schwellenwert M
 const unsigned int M = 2;
 
 // max Iterationen K
-const unsigned int K = 150;
+const unsigned int K = 1000;
 
-const unsigned int hoehe = 500;   // Pixel
-const unsigned int breite = 500;  // Pixel
 
-int main(){
+int main() {
+    Bild b;
 
-    Farbe f;
-    cin >> f;
-    cout << f << endl;
-    f--;
-    cout << f << endl;
-
+    b.saveBild(p_min, p_max, q_min, q_max, K, M);
+    return 0;
 }

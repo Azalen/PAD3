@@ -141,6 +141,15 @@ public:
         return f;
     }
 
+    int operator[](const int i) const {
+        switch (i) {
+        case 0: return (int) r;
+        case 1: return (int) g;
+        case 2: return (int) b;
+        default: return -1;
+        }
+    }
+
 };
 
 const byte Farbe::MAX_VAL;

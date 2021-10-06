@@ -21,7 +21,7 @@
 # Extra
 color
 Makefile
-Farbe.cpp
+*.cpp
 *.h
 *.user
 *.DS_Store

@@ -6,7 +6,7 @@ Schreiben Sie ein Klasse **Photoshop**, welche ein **Bild** im `.ppm`-Format ein
 
 Realisieren Sie folgende Funktionalität:
 *   *Speichern unter* in den unkomprimierten Formaten `.ppm (P3)` und `.ppm (P6)` ([Hinweise zu den Formaten](http://davis.lbl.gov/Manuals/NETPBM/doc/ppm.html))
-*   *Einfärben* des gesamten Bildes/Arbeitsfläche mit 10x10 Pixel-Quadraten zufälliger Farbe
+*   *Einfärben* des gesamten Bildes/Arbeitsfläche mit 50x50 Pixel-Quadraten zufälliger Farbe
 *   *Drehen* des Bildes um 90° im Uhrzeigersinn
 *   *Helligkeit verringern/erhöhen* um einen vom Nutzer abgefragten prozentualen Wert
 *   Ein Menü, in dem der Nutzer die verschiedenen Operationen ausführen kann 

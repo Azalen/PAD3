@@ -1,6 +1,6 @@
 # Übungsblatt 02 - Mandelbrot
 
-![Untitled-2](https://user-images.githubusercontent.com/20336567/153413615-aed26769-88a7-41a9-8593-8000a45915f1.png)
+![Untitled-2](https://user-images.githubusercontent.com/20336567/153413692-cd388015-ffc2-4a82-b921-7ac4a5194a3f.png)
 
 ## Übungsblatt 02, Aufgabe 01 (20 Punkte)
 (diese Aufgabe wird fortgesetzt)

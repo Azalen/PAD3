@@ -1,4 +1,6 @@
-## Abgabetermin: Montag, 20.09.2021, 11:30 Uhr
+# Übungsblatt 01 - Farbe
+
+![Untitled-2](https://user-images.githubusercontent.com/20336567/153412928-c1cce69c-01ff-4bfb-9801-5d72df891f6f.png)
 
 ## Übungsblatt 01, Aufgabe 01 (16 Punkte)
 (diese Aufgabe wird fortgesetzt)

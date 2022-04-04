@@ -1,4 +1,6 @@
-## Abgabetermin: Montag, 27.09.2021, 11:30 Uhr
+# Übungsblatt 02 - Bild, Colormap, Mandelbrot
+
+![Untitled-2](https://user-images.githubusercontent.com/20336567/153413692-cd388015-ffc2-4a82-b921-7ac4a5194a3f.png)
 
 ## Übungsblatt 02, Aufgabe 01 (20 Punkte)
 (diese Aufgabe wird fortgesetzt)

@@ -148,6 +148,7 @@ class SFEncode{
             }
             std::cout << " - " << code << " => " << binary << " (" << binary.length() << " bit)" << std::endl;
             return binary;
+            
         }
 };
 
